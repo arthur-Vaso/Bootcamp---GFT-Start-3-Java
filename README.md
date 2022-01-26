@@ -1,3 +1,8 @@
 # Bootcamp---GFT-Start-3-Java
 
-- Aqui conterão todos os certificados de particiipação do bootcamp GFT.
+### 1. Pasta Certificados
+  - Aqui conterão todos os certificados de particiipação do bootcamp GFT.
+
+### 2. Psata Java-Projects
+  - Aqui estarão os provetos em java realizados durante o bootcamp GFT.
+    - java-ecosystem - primeiro projeto realizado em java.
